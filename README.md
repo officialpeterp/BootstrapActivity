@@ -1,4 +1,4 @@
-# BoostrapActivity
+# BootstrapActivity
 
 * **Objective** - Attempt to recreate the website shown below using Bootstrap.
 * **Purpose** - To establish familiarity with Bootstrap and use of Bootstrap documentation.
